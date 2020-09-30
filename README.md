@@ -1,2 +1,2 @@
 # background-generator
-#moro
+moro
