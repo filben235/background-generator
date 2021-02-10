@@ -1,2 +1,1 @@
-# background-generator
-moro
+# Simple vanilla JS background gradient generator
